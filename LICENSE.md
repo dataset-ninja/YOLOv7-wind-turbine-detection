@@ -1,0 +1,1 @@
+Wind Turbine Detection via YOLOv7 is under [MIT License](https://spdx.org/licenses/MIT.html) license.
