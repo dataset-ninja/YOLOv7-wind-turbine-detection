@@ -1,6 +1,8 @@
-Please visit dataset [homepage](https://github.com/nvriese1/WindTurbineDetection) to download the data. 
+Dataset **Wind Turbine Detection (by Noah Vriese)** can be downloaded in Supervisely format:
 
-Afterward, you have the option to download it in the universal supervisely format by utilizing the *dataset-tools* package:
+ [Download](https://assets.supervisely.com/supervisely-supervisely-assets-public/teams_storage/P/k/pl/HQpYdyn35fC1klC1PC90bXIpnXF99YmDJ8BnxPSmbij2PXWSYWZqdMj9jRcgnhbo6wIB76PnIHrTJ2A1qXo2V5k5L0DpgYxf8432E9TFZ365jRHtkQkBWcGZZyEW.tar)
+
+As an alternative, it can be downloaded with *dataset-tools* package:
 ``` bash
 pip install --upgrade dataset-tools
 ```
@@ -9,5 +11,6 @@ pip install --upgrade dataset-tools
 ``` python
 import dataset_tools as dtools
 
-dtools.download(dataset='Wind Turbines 8', dst_path='~/dtools/datasets/Wind Turbines 8.tar')
+dtools.download(dataset='Wind Turbine Detection (by Noah Vriese)', dst_path='~/dtools/datasets/Wind Turbine Detection (by Noah Vriese).tar')
 ```
+The data in original format can be 🔗[downloaded here](https://github.com/nvriese1/WindTurbineDetection/archive/refs/heads/main.zip)
