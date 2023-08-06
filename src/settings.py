@@ -21,7 +21,7 @@ PROJECT_NAME_FULL: str = "Wind Turbine Detection via YOLOv7"
 ##################################
 LICENSE: License = License.MIT()
 APPLICATIONS: List[Union[Industry, Domain, Research]] = [Industry.Energy(is_used=False)]
-CATEGORY: Category = Category.EnergyAndUtilities(extra=Category.Aerial())
+CATEGORY: Category = Category.EnergyAndUtilities(extra=[Category.Aerial(), Category.Satellite()])
 
 CV_TASKS: List[CVTask] = [CVTask.ObjectDetection()]
 ANNOTATION_TYPES: List[AnnotationType] = [AnnotationType.ObjectDetection()]
