@@ -1,4 +1,4 @@
-**Wind Turbine Detection via YOLOv7** is a dataset for object detection tasks. Possible applications of the dataset could be in the energy industry. 
+**Wind Turbine Detection via YOLOv7** is a dataset for an object detection task. Possible applications of the dataset could be in the energy industry. 
 
 The dataset consists of 5215 images with 10063 labeled objects belonging to 1 single class (*wind turbine*).
 
