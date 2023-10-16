@@ -21,7 +21,7 @@ HIDE_DATASET = False  # set False when 100% sure about repo quality
 ##################################
 # * After uploading to instance ##
 ##################################
-LICENSE: License = License.MIT()
+LICENSE: License = License.MIT(source_url="https://github.com/nvriese1/WindTurbineDetection/blob/main/LICENSE")
 APPLICATIONS: List[Union[Industry, Domain, Research]] = [Industry.Energy(is_used=False)]
 CATEGORY: Category = Category.EnergyAndUtilities(extra=[Category.Aerial(), Category.Satellite()])
 
