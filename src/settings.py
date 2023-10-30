@@ -55,7 +55,7 @@ CLASS2COLOR: Optional[Dict[str, List[str]]] = None
 PAPER: Optional[str] = None
 CITATION_URL: Optional[str] = None
 AUTHORS: Optional[List[str]] = ["Noah Vriese"]
-AUTHORS_CONTACTS: Optional[List[str]] = None
+AUTHORS_CONTACTS: Optional[List[str]] = ["https://www.linkedin.com/in/noah-vriese/"]
 
 
 ORGANIZATION_NAME: Optional[Union[str, List[str]]] = None
