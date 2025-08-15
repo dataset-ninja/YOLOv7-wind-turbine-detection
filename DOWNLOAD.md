@@ -1,6 +1,6 @@
 Dataset **Wind Turbine Detection (by Noah Vriese)** can be downloaded in [Supervisely format](https://developer.supervisely.com/api-references/supervisely-annotation-json-format):
 
- [Download](https://assets.supervisely.com/remote/eyJsaW5rIjogImZzOi8vYXNzZXRzLzE0OTNfV2luZCBUdXJiaW5lIERldGVjdGlvbiAoYnkgTm9haCBWcmllc2UpL3dpbmQtdHVyYmluZS1kZXRlY3Rpb24tKGJ5LW5vYWgtdnJpZXNlKS1EYXRhc2V0TmluamEudGFyIiwgInNpZyI6ICJTTXpUampvbVpkWVQ0eDByZjYzY1BzRDd6TEZhVHhTZXJqZXc1aDZxSGxZPSJ9)
+ [Download](https://assets.supervisely.com/remote/eyJsaW5rIjogInMzOi8vc3VwZXJ2aXNlbHktZGF0YXNldHMvMTQ5M19XaW5kIFR1cmJpbmUgRGV0ZWN0aW9uIChieSBOb2FoIFZyaWVzZSkvd2luZC10dXJiaW5lLWRldGVjdGlvbi0oYnktbm9haC12cmllc2UpLURhdGFzZXROaW5qYS50YXIiLCAic2lnIjogIktuK0IzOENXYXpSdjJNVDN0SXd5SkxqTy9qdmdCUU0vOStaV2FUNVl2NlU9In0=?response-content-disposition=attachment%3B%20filename%3D%22wind-turbine-detection-%28by-noah-vriese%29-DatasetNinja.tar%22)
 
 As an alternative, it can be downloaded with *dataset-tools* package:
 ``` bash
